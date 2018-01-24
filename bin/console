@@ -1,0 +1,37 @@
+#!/usr/bin/env ruby
+$LOAD_PATH << File.join(__dir__, '..', 'lib')
+require 'pry'
+require 'achis'
+
+@transact24 = Achis::Providers::Transact24.new
+@ffs        = Achis::Providers::FFS.new
+@viking     = Achis::Providers::Viking.new
+
+puts <<EOS
+## TIPS
+#
+`@transact24`, `@ffs` and `@viking` are client instances.
+
+You can interact with the ftp server directly with:
+
+    connection = @transact24.connection # or @ffs.connection
+
+`connection` is a sftplike object.
+
+Inspect the methods available using:
+
+    show-doc @transact24
+    show-doc @ffs
+    show-doc @viking
+    show-doc connection
+
+Add the spec helpers if you need sample transactions:
+
+    require_relative 'spec/spec_helper'
+    transaction_debit
+    transaction_credit
+
+EOS
+
+ARGV.clear
+Pry.start

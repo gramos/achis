@@ -1,0 +1,3 @@
+"","","","","","36DE4F","","","","","","","","062000019","0152801055","","","","2D653A36DE4F","Kim Fisher","126.50","","||| NSF / Closed / StopPay / Refer to Maker or Non-DDA Account Flag.","R93","","","","","421540","2D653736DE4F",""
+"","","","","","AC9E81","","","","","","","","041200555","4030155946","","","","92E5FAAC9E81","Brad Walczak","148.15","","||| NSF / Closed / StopPay / Refer to Maker or Non-DDA Account Flag.","R93","","","","","421653","92E5F6AC9E81",""
+"","","","","","E04BA7","","","","","","","","061000052","334036405025","","","","153FAAE04BA7","Vickie Collins","330.98","","||| NSF / Closed / StopPay / Refer to Maker or Non-DDA Account Flag.","R93","","","","","421502","153FA0E04BA7",""

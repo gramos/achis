@@ -1,0 +1,5 @@
+FFSPaymentFile_v1.0,,
+PaymentRoutingNumber,PaymentType,Amount,BankNumber,AccountNumber,CurrencyCode,AccountType,AccountName,Description,Reference,Comment
+332103,usach_ppd_debit,1600,103100195,3423423253234,USD,checking,marge baker,FD00AFA8A0F7,FD00AFA8A0F7,
+332103,usach_ppd_credit,2050,124003116,192312313,USD,savings,James Good man,665E0601D848,665E0601D848,
+FFSFooter,2,3650

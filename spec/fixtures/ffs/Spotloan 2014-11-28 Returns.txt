@@ -1,0 +1,5 @@
+FFSPaymentFile_v1.0, Returns,,,,,,,,,,,
+PaymentRoutingNumber,PaymentType,CurrencyCode,Amount,Reference,Comment,PayeeName,AccountIdentifier,Status,TrackingNumber,SubmissionDate,SubmissionFile,ReturnDate,CorrectionData
+862439, usach_ppd_debit, USD, 2500, 123456781234, , STEVEN KLINE, ***0123, R01, 210, 8/5/2013, 2013-08-5-Request.txt, 8/7/  xb2013,
+862439, usach_ppd_debit, USD, 0, 123456781234, , STEVEN KLINE, ***0123, C02, 210, 8/5/2013, 2013-08-5-Request.txt, 8/7/2013, 123456789
+FFSFooter, 2, 2500,,,,,,,,,,
